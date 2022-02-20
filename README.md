@@ -1,3 +1,9 @@
+
+![logo-capgemini](https://user-images.githubusercontent.com/95660275/154862555-cb9abed4-0f95-4bcd-963f-9e81d446e37c.png)
+
+
+
+
 # DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
 O objetivo dessa etapa é testar os conhecimentos em lógica de programação. Para isso, preparamos três questões com diferentes níveis de dificuldade.
